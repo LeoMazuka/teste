@@ -1,5 +1,2 @@
 # WindowsFormsApp1"# AutenticacaoTeste" 
-"# AutenticacaoTeste" 
-"# AutenticacaoTeste" 
-"# AutenticacaoTeste" 
-"# teste" 
+Estudando dot.net, fiz um projeto de tela de autenticação 
